@@ -9,7 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/molinito](https://github.com/molinito)
 
-- 📫 How to reach me **molinito48@gmail.com**
+- 📫 How to reach me **molinito48@gmail.com and molinos456@hotmail.com**
+
+- Featured repositories: https://github.com/molinito/FRONT-acmetronic, https://github.com/molinito/BACK-acmetronics and https://github.com/molinito/PI-video-games-Henry
 
 - 📄 Know about my experiences [linkedin.com/in/marcelo-saravia-27128092](linkedin.com/in/marcelo-saravia-27128092)
 
