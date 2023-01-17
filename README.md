@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
-<h3 align="center">A passionate frontend developer from Argentine</h3>
+<h3 align="center">A passionate frontend and backend developer from Argentine</h3>
 
 - 🔭 I’m currently working on [Acmetronics](https://front-acmetronic-production.up.railway.app/)
 
