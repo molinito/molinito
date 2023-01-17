@@ -27,7 +27,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/marcelo-saravia-27128092](linkedin.com/in/marcelo-saravia-27128092)
 
-- ⚡ Fun fact **I am perseverant**
+- ⚡ Fun fact **I am perseverant, collaborative and others skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
