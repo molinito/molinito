@@ -3,6 +3,18 @@
 
 - 🔭 I’m currently working on [Acmetronics](https://front-acmetronic-production.up.railway.app/)
 
+- My knowledge:
+  JavaScript
+  HTML
+  CSS
+  ReactJs
+  Node.Js
+  Express
+  Sequelize
+  Postgresql
+  Boostrap
+  Redux
+
 - 🌱 I’m currently learning **Framework boostrap, material UI, lenguaje english**
 
 - 👯 I’m looking to collaborate on [Acmetronics](https://front-acmetronic-production.up.railway.app/)
