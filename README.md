@@ -11,7 +11,7 @@
   Node.Js
   Express
   Sequelize
-  Postgresql
+  Postgres
   Boostrap
   Redux
 
