@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
 <h3 align="center">A passionate frontend and backend developer from Argentine</h3>
 
-- 🔭 I’m currently working on [Acmetronics](https://front-acmetronic-production.up.railway.app/)
+- 🔭 I’m currently working on proyect [Acmetronics ecommerce](https://front-acmetronic-production.up.railway.app/)
 
 - My knowledge:
   JavaScript
@@ -15,7 +15,7 @@
   Boostrap
   Redux
 
-- 🌱 I’m currently learning **Framework boostrap, material UI, lenguaje english**
+- 🌱 I’m currently learning **Framework boostrap, material UI, English language**
 
 - 👯 I’m looking to collaborate on [Acmetronics](https://front-acmetronic-production.up.railway.app/)
 
