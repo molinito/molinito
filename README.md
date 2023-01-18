@@ -4,15 +4,15 @@
 - 🔭 I’m currently working on proyect [Acmetronics ecommerce](https://front-acmetronic-production.up.railway.app/)
 
 - My knowledge:
-  JavaScript
-  HTML
-  CSS
-  ReactJs
-  Node.Js
-  Express
-  Sequelize
-  Postgres
-  Boostrap
+  JavaScript,
+  HTML,
+  CSS,
+  ReactJs,
+  Node.Js,
+  Express,
+  Sequelize,
+  Postgres,
+  Boostrap,
   Redux
 
 - 🌱 I’m currently learning **Framework boostrap, material UI, English language**
